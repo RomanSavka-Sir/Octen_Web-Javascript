@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:git" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:githubs" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d64c689-6045-493d-bec3-df268336187f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/практичні  - octen web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson2_0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson3 - part1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson3 - part1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson3-part2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson3-part2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/Javascript-lesson9.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/downloadforlesson3task2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/downloadforlesson3task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/template1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript - practice at home - 2/template2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/react_course_1_lesson_homework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../React/react_course_1_lesson_homework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/react_course_1_lesson_homework/src/Components/User/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/../React/react_course_1_lesson_homework/src/Components/User/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screenshot_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flex-using-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flex-using.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-script1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript- practice1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript-first.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_course_lesson1/src/components/Users/New_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_course_lesson1/src/components/Users/Newcomponent_cities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_course_lesson1/src/database/cities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nKfNXpupq9ZpPVuz1lAQsTfAco" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d64c689-6045-493d-bec3-df268336187f" name="Default Changelist" comment="" />
+      <created>1611143684560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611143684560</updated>
+      <workItem from="1611143696639" duration="367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
